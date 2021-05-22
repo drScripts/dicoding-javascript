@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "dicoding node course",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing dicoding course"
+  },
+  "author": "",
+  "license": "ISC"
+}
